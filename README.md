@@ -1,0 +1,1 @@
+# Scraping pokemon list csv
